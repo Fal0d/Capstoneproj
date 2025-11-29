@@ -120,8 +120,3 @@ export default function App() {
     </div>
   );
 }
-// | Role       | Username     | Password       |
-// | ---------- | ------------ | -------------- |
-// | Reception  | `reception1` | `reception123` |
-// | Doctor     | `drsmith`    | `doctor123`    |
-// | Pharmacist | `pharm1`     | `pharm123`     |
