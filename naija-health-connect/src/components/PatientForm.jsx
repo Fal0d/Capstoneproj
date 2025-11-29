@@ -83,7 +83,7 @@ export default function PatientForm({ onAdd }) {
         </span>
       </label>
 
-      <label>
+      {/* <label>
         Diagnosis
         <input value={diagnosis} onChange={(e) => setDiagnosis(e.target.value)} placeholder="Doctor's diagnosis" />
       </label>
@@ -91,7 +91,7 @@ export default function PatientForm({ onAdd }) {
       <label>
         Prescription
         <input value={prescription} onChange={(e) => setPrescription(e.target.value)} placeholder="Prescribed medication" />
-      </label>
+      </label> */}
 
       <label className="followup-check">
         <input
