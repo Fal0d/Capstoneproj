@@ -1,6 +1,6 @@
 # React + Vite
 
-Naija Health Connect
+We were asked to choose a focus area for our project and i have chosen Patient and clinic management application. the name of my project is Naija Health Connect
 
 Naija Health Connect is a web-based health management application designed to streamline patient care and record management in healthcare organizations. The app connects receptionists, doctors, and pharmacists in one centralized platform, enabling efficient patient registration, consultation, and prescription management.
 
@@ -125,6 +125,5 @@ Role-specific dashboards with analytics and reporting.
 Dark mode toggle and animations for improved UX.
 
 Notifications and reminders for appointments and prescriptions.
-althogh it has not been fully developed there are still some bugs 
 
 Thank you.
