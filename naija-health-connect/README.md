@@ -101,10 +101,10 @@ npm run dev
 Open the app in your browser at the provided URL (usually http://localhost:5173/).
 
 Login Credentials for Demo
-Role	Password
-Receptionist	reception123
-Doctor	doctor123
-Pharmacist	pharm123
+Role             username               Password
+Receptionist	 reception1             reception123
+Doctor	         drsmith                doctor123
+Pharmacist	      pharm1                pharm123
 
 Note: Users can enter any name; only the password is validated per role.
 
