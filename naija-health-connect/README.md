@@ -109,7 +109,7 @@ Pharmacist	      pharm1                pharm123
 Note: Users can enter any name; only the password is validated per role.
 
 Workflow Overview
-
+ 
 Receptionist logs in → registers patient details → patient appears in system.
 
 Doctor logs in → views patient list → records diagnosis and prescriptions → updates saved automatically.
